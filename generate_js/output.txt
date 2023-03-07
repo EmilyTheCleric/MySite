@@ -1,0 +1,8 @@
+<select name="Page" id="pageSelector">
+    <option value="0">Optum</option>
+    <option value="1">ECE-IT</option>
+    <option value="2">Vocaloid Reccomendation Algorithm</option>
+    <option value="3">Drone Search and Rescue</option>
+    <option value="4">Gopher Grades bot</option>
+    <option value="5">Stepset</option>
+</select>
